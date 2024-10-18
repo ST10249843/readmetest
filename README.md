@@ -148,7 +148,7 @@ The CMCS is designed as a web-based application, ensuring accessibility from any
 ### Built with .NET Core MVC
 Developed using the .NET Core framework with ASP.NET MVC (Model-View-Controller) architecture, CMCS provides robust performance and scalability. This structure allows for effective management of user interactions and data processing, improving both the development process and overall user experience.
 
-![Colour Palette]([image_url](https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png))
+![Colour Palette]((https://media.geeksforgeeks.org/wp-content/uploads/20220224160807/Model1.png))
 
 ### Colour Palette
 
