@@ -157,7 +157,7 @@ Developed using the .NET Core framework with ASP.NET MVC (Model-View-Controller)
 - **Green**: Symbolizes growth and renewal, highlighting key actions within the interface.
 - **White**: Serves as a clean backdrop, allowing elements to stand out with elegance.
 
-![Colour Palette]([image_url](https://i.pinimg.com/originals/53/5d/d8/535dd8ae95945c465e6cdbe82927664c.png))
+![Colour Palette](https://i.pinimg.com/originals/53/5d/d8/535dd8ae95945c465e6cdbe82927664c.png)
 
 ## Conclusion
 The Contract Monthly Claim System (CMCS) is an essential tool for managing claims efficiently within educational institutions. By automating processes and enhancing transparency, CMCS not only benefits lecturers but also streamlines administrative tasks, paving the way for better resource management and improved institutional efficiency.
