@@ -3,6 +3,8 @@
 ## What is CMCS?
 The Contract Monthly Claim System (CMCS) is a sophisticated web-based application tailored to simplify and enhance the process of managing monthly claims submitted by Independent Contractor (IC) lecturers. This system serves as a vital tool in educational institutions, particularly in managing the often complex and labor-intensive task of processing claims for services rendered by IC lecturers.
 
+![Uploading Screenshot 2024-10-18 201517.png…]()
+
 ## Purpose and Objectives
 The CMCS is designed to enhance the submission and approval process, streamlining claims to optimize administrative efficiency and ensure accuracy. Key benefits include:
 - **Improved Efficiency**: Automation of routine tasks.
